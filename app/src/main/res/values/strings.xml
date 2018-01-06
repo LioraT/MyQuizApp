@@ -1,0 +1,17 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">MyQuizApp</string>
+    <string name="enter_number_here_hint">Enter number here</string>
+    <string name="jolease_caesar">Jolease Caesar</string>
+    <string name="augustus_caesar">Augustus Caesar</string>
+    <string name="mark_antony">Mark Antony</string>
+    <string name="cleopatra">Cleopatra</string>
+    <string name="petrograd">Petrograd</string>
+    <string name="tashkent">tashkent</string>
+    <string name="leningrad">Leningrad</string>
+    <string name="belgrade">Belgrade</string>
+    <string name="results">Results</string>
+    <string name="thailand">Thailand</string>
+    <string name="costa_rika">Costa Rika</string>
+
+
+</resources>
